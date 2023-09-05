@@ -1,5 +1,5 @@
 # Database Reading List
-Enjoy papers about databases and distributed systems!
+🥰 Enjoy papers about databases and distributed systems!
 
 ## Google Series
 - [The Google File System](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/035fc972c796d33122033a0614bc94cff1527999.pdf)
@@ -15,6 +15,7 @@ Enjoy papers about databases and distributed systems!
 
 ## Transaction
 - [A Critique of ANSI SQL Isolation Levels](https://dl.acm.org/doi/pdf/10.1145/568271.223785)
+- [High-Performance Concurrency Control Mechanisms for Main-Memory Databases](https://arxiv.org/pdf/1201.0228.pdf)
 - [Large-scale Incremental Processing Using Distributed Transactions and Notifications](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Peng.pdf)
 
 ## Logging and Recovery
