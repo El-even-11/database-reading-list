@@ -16,6 +16,8 @@
 ## Transaction
 - [A Critique of ANSI SQL Isolation Levels](https://dl.acm.org/doi/pdf/10.1145/568271.223785)
 - [High-Performance Concurrency Control Mechanisms for Main-Memory Databases](https://arxiv.org/pdf/1201.0228.pdf)
+
+Distributed Transaction
 - [Large-scale Incremental Processing Using Distributed Transactions and Notifications](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Peng.pdf)
 
 ## Logging and Recovery
@@ -26,7 +28,10 @@
 Paxos & Raft
 - [Paxos Made Simple](https://www.microsoft.com/en-us/research/publication/2016/12/paxos-simple-Copy.pdf)
 - [In Search of an Understandable Consensus Algorithm](https://pages.cs.wisc.edu/~remzi/Classes/739/Spring2004/Papers/raft.pdf)
+  
+ZooKeeper
 - [ZooKeeper: Wait-free coordination for Internet-scale systems](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf)
+- [Zab: High-performance broadcast for primary-backup systems](https://www-users.cselabs.umn.edu/classes/Fall-2017/csci8211/Papers/Distributed%20Systems%20Zab-%20High-performance%20broadcast%20for%20primary-backup%20systems.pdf)
 
 Chain topology
 - [Chain Replication for Supporting High Throughput and Availability](https://www.usenix.org/legacy/events/osdi04/tech/full_papers/renesse/renesse.pdf)
