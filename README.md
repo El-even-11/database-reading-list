@@ -9,9 +9,13 @@ Enjoy papers about databases and distributed systems!
 - [F1: A Distributed SQL Database That Scales](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41344.pdf)
 - [Online, Asynchronous Schema Change in F1](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41376.pdf)
 
+## Amazon Series
+- [Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases](https://assets.amazon.science/dc/2b/4ef2b89649f9a393d37d3e042f4e/amazon-aurora-design-considerations-for-high-throughput-cloud-native-relational-databases.pdf)
+- [Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service](https://pdos.csail.mit.edu/6.824/papers/atc22-dynamodb.pdf)
+
 ## Transaction
 - [A Critique of ANSI SQL Isolation Levels](https://dl.acm.org/doi/pdf/10.1145/568271.223785)
-- [Large-scale Incremental Processing Using Distributed Transactions and Notifications](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Peng.pdf) Percolator
+- [Large-scale Incremental Processing Using Distributed Transactions and Notifications](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Peng.pdf)
 
 ## Logging and Recovery
 - [ARIES: A Transaction Recovery Method Supporting Fine-Granularity Locking and Partial Rollbacks Using Write-Ahead Logging](https://dl.acm.org/doi/pdf/10.1145/128765.128770)
