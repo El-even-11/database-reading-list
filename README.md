@@ -18,5 +18,12 @@ Enjoy papers about databases and distributed systems!
 - [Aether: A Scalable Approach to Logging](./pdf/vldb10aether.pdf)
 
 ## Consensus and Replication
+Paxos & Raft
 - [Paxos Made Simple](https://www.microsoft.com/en-us/research/publication/2016/12/paxos-simple-Copy.pdf)
-- [In Search of an Understandable Consensus Algorithm](https://www.usenix.org/system/files/conference/atc14/atc14-paper-ongaro.pdf)
+- [In Search of an Understandable Consensus Algorithm](https://pages.cs.wisc.edu/~remzi/Classes/739/Spring2004/Papers/raft.pdf)
+- [ZooKeeper: Wait-free coordination for Internet-scale systems](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf)
+
+Chain topology
+- [Chain Replication for Supporting High Throughput and Availability](https://www.usenix.org/legacy/events/osdi04/tech/full_papers/renesse/renesse.pdf)
+- [Object Storage on CRAQ High-throughput chain replication for read-mostly workloads](https://www.usenix.org/legacy/event/usenix09/tech/full_papers/terrace/terrace.pdf)
+- [High Throughput Replication with Integrated Membership Management](https://www.usenix.org/system/files/atc22-fouto.pdf)
